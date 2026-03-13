@@ -1,1 +1,2 @@
--keep class com.ffstretch.** { *; }
+-keep class rikka.shizuku.** { *; }
+-dontwarn rikka.shizuku.**
